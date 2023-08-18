@@ -1,0 +1,1 @@
+export { getMonthsTableData } from "./getMonthsTableData";

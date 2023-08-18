@@ -1,0 +1,1 @@
+export { MassIcon } from "./MassIcon";

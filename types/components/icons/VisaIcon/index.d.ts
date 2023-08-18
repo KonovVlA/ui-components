@@ -1,0 +1,1 @@
+export { VisaIcon } from "./VisaIcon";

@@ -1,0 +1,1 @@
+export { SpeechBubbleQuestionIcon } from "./SpeechBubbleQuestionIcon";

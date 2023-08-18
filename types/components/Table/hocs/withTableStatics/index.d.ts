@@ -1,0 +1,1 @@
+export { withTableStatics } from "./withTableStatics";

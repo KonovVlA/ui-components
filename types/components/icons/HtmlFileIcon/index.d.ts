@@ -1,0 +1,1 @@
+export { HtmlFileIcon } from "./HtmlFileIcon";

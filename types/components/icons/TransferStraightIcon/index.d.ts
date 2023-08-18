@@ -1,0 +1,1 @@
+export { TransferStraightIcon } from "./TransferStraightIcon";

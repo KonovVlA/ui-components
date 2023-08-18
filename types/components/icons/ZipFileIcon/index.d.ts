@@ -1,0 +1,1 @@
+export { ZipFileIcon } from "./ZipFileIcon";

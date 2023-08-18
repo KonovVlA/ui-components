@@ -1,0 +1,1 @@
+export { MagnifierIcon } from "./MagnifierIcon";

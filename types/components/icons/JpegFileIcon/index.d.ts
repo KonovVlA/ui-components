@@ -1,0 +1,1 @@
+export { JpegFileIcon } from "./JpegFileIcon";

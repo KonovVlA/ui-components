@@ -1,0 +1,1 @@
+export { IdentityDocumentIcon } from "./IdentityDocumentIcon";

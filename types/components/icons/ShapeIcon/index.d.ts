@@ -1,0 +1,1 @@
+export { ShapeIcon } from "./ShapeIcon";

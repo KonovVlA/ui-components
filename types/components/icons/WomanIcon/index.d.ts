@@ -1,0 +1,1 @@
+export { WomanIcon } from "./WomanIcon";

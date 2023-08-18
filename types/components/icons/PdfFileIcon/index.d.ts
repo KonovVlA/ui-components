@@ -1,0 +1,1 @@
+export { PdfFileIcon } from "./PdfFileIcon";

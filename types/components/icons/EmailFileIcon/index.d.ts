@@ -1,0 +1,1 @@
+export { EmailFileIcon } from "./EmailFileIcon";

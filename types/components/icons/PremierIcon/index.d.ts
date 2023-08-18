@@ -1,0 +1,1 @@
+export { PremierIcon } from "./PremierIcon";

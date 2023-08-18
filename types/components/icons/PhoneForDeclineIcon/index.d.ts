@@ -1,0 +1,1 @@
+export { PhoneForDeclineIcon } from "./PhoneForDeclineIcon";

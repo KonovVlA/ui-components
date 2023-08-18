@@ -1,0 +1,1 @@
+export { CrossThinIcon } from "./CrossThinIcon";

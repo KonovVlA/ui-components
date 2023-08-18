@@ -1,0 +1,1 @@
+export { MastercardIcon } from "./MastercardIcon";

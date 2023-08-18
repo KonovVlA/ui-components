@@ -1,0 +1,1 @@
+export { getIntervalIntersectionType } from "./getIntervalIntersectionType";

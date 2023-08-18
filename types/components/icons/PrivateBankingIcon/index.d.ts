@@ -1,0 +1,1 @@
+export { PrivateBankingIcon } from "./PrivateBankingIcon";

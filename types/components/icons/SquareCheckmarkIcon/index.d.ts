@@ -1,0 +1,1 @@
+export { SquareCheckmarkIcon } from "./SquareCheckmarkIcon";

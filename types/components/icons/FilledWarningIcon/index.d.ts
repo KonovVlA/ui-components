@@ -1,0 +1,1 @@
+export { FilledWarningIcon } from "./FilledWarningIcon";

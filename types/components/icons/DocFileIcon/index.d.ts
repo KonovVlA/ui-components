@@ -1,0 +1,1 @@
+export { DocFileIcon } from "./DocFileIcon";

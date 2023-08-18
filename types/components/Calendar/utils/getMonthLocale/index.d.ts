@@ -1,0 +1,1 @@
+export { getMonthLocale } from "./getMonthLocale";

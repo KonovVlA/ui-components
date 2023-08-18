@@ -1,0 +1,1 @@
+export { PptFileIcon } from "./PptFileIcon";

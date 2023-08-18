@@ -1,0 +1,1 @@
+export { DepositIcon } from "./DepositIcon";

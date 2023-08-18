@@ -1,0 +1,1 @@
+export { TransferRoundedIcon } from "./TransferRoundedIcon";

@@ -1,0 +1,1 @@
+export { PhoneOutlinedIcon } from "./PhoneOutlinedIcon";
